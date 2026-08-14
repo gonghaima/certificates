@@ -1,10 +1,40 @@
-# Certificates
+# [Certificates](https://gonghaima.github.io/certificates/)
 
-A static showcase page for completed courses and certifications (AI agents, cloud platforms,
-developer tooling). Live at the GitHub Pages URL once deployed.
+A running collection of completed courses and certifications across AI agents, cloud platforms,
+and developer tooling. 20 certificates from Anthropic, Microsoft, IBM, Google Cloud, AWS,
+AICERTs, and LinkedIn Learning.
 
-Certificate PDFs live under `certs/`, grouped by issuer. `index.html` renders a filterable
-gallery with client-side PDF thumbnails (via [pdf.js](https://mozilla.github.io/pdf.js/)) — no
-build step required.
+👉 **[Browse the interactive gallery](https://gonghaima.github.io/certificates/)** — filterable,
+with PDF thumbnails.
 
-To add a certificate: drop the PDF into `certs/`, add an entry to `assets/certs.js`, commit.
+## Certificates
+
+| Date | Certificate | Issuer |
+| --- | --- | --- |
+| Aug 2026 | [Advanced LLMs with Retrieval Augmented Generation (RAG): Practical Projects for AI Applications](certs/Building_Agentic_AI_Systems_for_Developers/CertificateOfCompletion_Advanced%20LLMs%20with%20Retrieval%20Augmented%20Generation%20RAG%20Practical%20Projects%20for%20AI%20Applications.pdf) | LinkedIn Learning |
+| Aug 2026 | [Hands-on AI: Building Agentic SaaS Workflows with AutoGen Studio](certs/Building_Agentic_AI_Systems_for_Developers/Handson_AI_Building_Agentic_SaaS_Workflows_with_AutoGen_Studio.pdf) | LinkedIn Learning |
+| Aug 2026 | [Build with AI: Creating AI Agents with OpenAI's Responses API](certs/Building_Agentic_AI_Systems_for_Developers/Creating_AI_Agents_with_OpenAIs_Responses_API.pdf) | LinkedIn Learning |
+| Aug 2026 | [Build with AI: Autonomous Agents with LangChain and Hugging Face](certs/AI_Autonomous_Agents_with_LangChain_and_Hugging_Face.pdf) | LinkedIn Learning |
+| Aug 2026 | [Generative AI Applications with Amazon Bedrock](certs/Generative_AI_Applications_with_Amazon_Bedrock_Coursera.pdf) | AWS · Coursera |
+| Jul 2026 | [MLOps with Vertex AI: Model Evaluation](certs/Machine_Learning_Operations_with_Vertex_AI_Model_Evaluation.pdf) | Google Cloud · Coursera |
+| Jul 2026 | [MLOps with Vertex AI: Manage Features](certs/Machine_Learning_Operations_%28MLOps%29_with_Vertex_AI_Manage_Features.pdf) | Google Cloud · Coursera |
+| Jul 2026 | [AI Tools, Data, and Experience Design](certs/AI-Tools-Data-and-Experience-Design.pdf) | AICERTs · Coursera |
+| Jul 2026 | [Machine Learning Operations (MLOps): Getting Started](certs/Machine-Learning-Operations-%28MLOps%29.pdf) | Google Cloud · Coursera |
+| Jul 2026 | [AI Foundations & Design Thinking](certs/AI-Foundations-Design-Thinking-Coursera.pdf) | AICERTs · Coursera |
+| Jul 2026 | [Build RAG Applications: Get Started](certs/IBM-Build-RAG-Applications.pdf) | IBM · Coursera |
+| Jul 2026 | [Develop Generative AI Applications: Get Started](certs/IBM-Develop-Generative-AI-Applications.pdf) | IBM · Coursera |
+| Jun 2026 | [Microsoft Azure AI Essentials](certs/Microsoft/Microsoft_Azure_AI_Essentials.pdf) | Microsoft & LinkedIn Learning |
+| Jun 2026 | [Agentic AI with LangChain and LangGraph](certs/Building_Agentic_AI_Systems_for_Developers/Agentic_AI_with_LangChain_and_LangGraph.pdf) | IBM · Coursera |
+| Jun 2026 | [Introduction to Agent Skills](certs/Claude/certificate-ClaudeAgentSkills.pdf) | Anthropic |
+| May 2026 | [Claude with the Anthropic API](certs/Claude/certificate-Claude-API.pdf) ([verify](https://verify.skilljar.com/c/9oj4qrpkfonv)) | Anthropic |
+| Apr 2026 | [Introduction to Claude Cowork](certs/Claude/certificate-ClaudeCowork.pdf) | Anthropic |
+| Apr 2026 | [Claude Code 101](certs/Claude/certificate-ClaudeCode101.pdf) | Anthropic |
+| Apr 2026 | [Claude 101](certs/Claude/certificate-Cloud101.pdf) | Anthropic |
+| Apr 2026 | [Claude Code in Action](certs/Claude/certificate-CloudCodeInAction.pdf) ([verify](https://verify.skilljar.com/c/5dy2czq2nhsf)) | Anthropic |
+
+---
+
+<sub>Certificate PDFs live under `certs/`, grouped by issuer. The gallery is a static page
+(`index.html` + `assets/certs.js`) rendered with client-side PDF thumbnails via
+[pdf.js](https://mozilla.github.io/pdf.js/) — no build step. To add a certificate: drop the PDF
+into `certs/`, add an entry to `assets/certs.js`, commit.</sub>
