@@ -62,13 +62,19 @@ function renderFilters() {
   }
 }
 
+// Cache thumbnails as data URLs (not <canvas> elements): canvases either get
+// detached on re-render (cloneNode doesn't copy pixel data) or can have their
+// bitmap silently purged by the browser when the tab is backgrounded. An
+// <img> with a cached data URL is immune to both.
 const thumbCache = new Map();
 
 async function renderThumb(el) {
   const file = el.dataset.file;
   if (thumbCache.has(file)) {
     el.innerHTML = "";
-    el.appendChild(thumbCache.get(file).cloneNode());
+    const img = new Image();
+    img.src = thumbCache.get(file);
+    el.appendChild(img);
     return;
   }
   try {
@@ -84,9 +90,12 @@ async function renderThumb(el) {
     const ctx = canvas.getContext("2d");
     await page.render({ canvasContext: ctx, viewport: scaledViewport }).promise;
 
-    thumbCache.set(file, canvas);
+    const dataUrl = canvas.toDataURL("image/png");
+    thumbCache.set(file, dataUrl);
     el.innerHTML = "";
-    el.appendChild(canvas);
+    const img = new Image();
+    img.src = dataUrl;
+    el.appendChild(img);
   } catch (err) {
     el.innerHTML = '<span class="placeholder">PDF</span>';
   }

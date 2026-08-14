@@ -154,7 +154,8 @@ header.hero p.sub {
   border-bottom: 1px solid var(--border);
 }
 
-.thumb canvas {
+.thumb canvas,
+.thumb img {
   width: 100%;
   height: 100%;
   object-fit: contain;
