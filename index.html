@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Steven Gong — Certificates</title>
+  <meta name="description" content="A showcase of AI, cloud, and developer tooling certifications." />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <h1>Certificates & Certifications</h1>
+      <p class="sub">
+        A running collection of completed courses and certifications across AI agents, cloud
+        platforms, and developer tooling — from Anthropic, Google Cloud, AWS, IBM, Microsoft, and
+        Coursera.
+      </p>
+      <div class="stats">
+        <div class="stat">
+          <span class="num" id="count">0</span>
+          <span class="label">Certificates shown</span>
+        </div>
+      </div>
+    </header>
+
+    <div class="filters" id="filters"></div>
+
+    <div class="grid" id="grid"></div>
+
+    <footer>
+      Built with GitHub Pages · Source on
+      <a href="https://github.com/gonghaima/certificates" target="_blank" rel="noopener">GitHub</a>
+    </footer>
+  </div>
+
+  <script type="module">
+    import * as pdfjsLib from "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.6.82/pdf.min.mjs";
+    window.pdfjsLib = pdfjsLib;
+    const s = document.createElement("script");
+    s.src = "assets/certs.js";
+    s.onload = () => {
+      const s2 = document.createElement("script");
+      s2.src = "assets/app.js";
+      document.body.appendChild(s2);
+    };
+    document.body.appendChild(s);
+  </script>
+</body>
+</html>
