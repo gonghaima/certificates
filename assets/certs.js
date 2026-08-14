@@ -154,4 +154,12 @@ const CERTS = [
     date: "2026-08-10",
     file: "certs/Building_Agentic_AI_Systems_for_Developers/Handson_AI_Building_Agentic_SaaS_Workflows_with_AutoGen_Studio.pdf",
   },
+  {
+    title: "Advanced LLMs with Retrieval Augmented Generation (RAG): Practical Projects for AI Applications",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-08-14",
+    file: "certs/Building_Agentic_AI_Systems_for_Developers/CertificateOfCompletion_Advanced LLMs with Retrieval Augmented Generation RAG Practical Projects for AI Applications.pdf",
+  },
 ];
