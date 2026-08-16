@@ -162,4 +162,12 @@ const CERTS = [
     date: "2026-08-14",
     file: "certs/Building_Agentic_AI_Systems_for_Developers/CertificateOfCompletion_Advanced LLMs with Retrieval Augmented Generation RAG Practical Projects for AI Applications.pdf",
   },
+  {
+    title: "OpenAI API: Function Calling",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-08-16",
+    file: "certs/Building_Agentic_AI_Systems_for_Developers/OpenAI_API_Function_Calling.pdf",
+  },
 ];

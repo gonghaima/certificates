@@ -1,7 +1,7 @@
 # [Certificates](https://gonghaima.github.io/certificates/)
 
 A running collection of completed courses and certifications across AI agents, cloud platforms,
-and developer tooling. 20 certificates from Anthropic, Microsoft, IBM, Google Cloud, AWS,
+and developer tooling. 21 certificates from Anthropic, Microsoft, IBM, Google Cloud, AWS,
 AICERTs, and LinkedIn Learning.
 
 👉 **[Browse the interactive gallery](https://gonghaima.github.io/certificates/)** — filterable,
@@ -11,6 +11,7 @@ with PDF thumbnails.
 
 | Certificate | Issuer |
 | --- | --- |
+| [OpenAI API: Function Calling](certs/Building_Agentic_AI_Systems_for_Developers/OpenAI_API_Function_Calling.pdf) | LinkedIn Learning |
 | [Advanced LLMs with Retrieval Augmented Generation (RAG): Practical Projects for AI Applications](certs/Building_Agentic_AI_Systems_for_Developers/CertificateOfCompletion_Advanced%20LLMs%20with%20Retrieval%20Augmented%20Generation%20RAG%20Practical%20Projects%20for%20AI%20Applications.pdf) | LinkedIn Learning |
 | [Hands-on AI: Building Agentic SaaS Workflows with AutoGen Studio](certs/Building_Agentic_AI_Systems_for_Developers/Handson_AI_Building_Agentic_SaaS_Workflows_with_AutoGen_Studio.pdf) | LinkedIn Learning |
 | [Build with AI: Creating AI Agents with OpenAI's Responses API](certs/Building_Agentic_AI_Systems_for_Developers/Creating_AI_Agents_with_OpenAIs_Responses_API.pdf) | LinkedIn Learning |
