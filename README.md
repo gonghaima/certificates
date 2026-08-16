@@ -1,11 +1,10 @@
-# [Certificates](https://gonghaima.github.io/certificates/)
+# Certificates
+
+[![View Live Gallery](https://img.shields.io/badge/View-Live%20Gallery-4c1d95?style=for-the-badge)](https://gonghaima.github.io/certificates/)
 
 A running collection of completed courses and certifications across AI agents, cloud platforms,
 and developer tooling. 21 certificates from Anthropic, Microsoft, IBM, Google Cloud, AWS,
-AICERTs, and LinkedIn Learning.
-
-👉 **[Browse the interactive gallery](https://gonghaima.github.io/certificates/)** — filterable,
-with PDF thumbnails.
+AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 
 ## Certificates
 
