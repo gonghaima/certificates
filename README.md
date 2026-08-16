@@ -6,6 +6,8 @@ A running collection of completed courses and certifications across AI agents, c
 and developer tooling. 21 certificates from Anthropic, Microsoft, IBM, Google Cloud, AWS,
 AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 
+[![Gallery preview](assets/demo/certificates-demo.gif)](https://gonghaima.github.io/certificates/)
+
 ## Certificates
 
 | Certificate | Issuer |
