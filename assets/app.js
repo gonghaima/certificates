@@ -1,5 +1,6 @@
-pdfjsLib.GlobalWorkerOptions.workerSrc =
-  "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.6.82/pdf.worker.min.mjs";
+// Worker must be same-origin: browsers block constructing a Worker from a
+// cross-origin script URL, which made this hang forever when loaded from a CDN.
+pdfjsLib.GlobalWorkerOptions.workerSrc = "assets/vendor/pdfjs/pdf.worker.min.mjs";
 
 const grid = document.getElementById("grid");
 const filters = document.getElementById("filters");
