@@ -170,4 +170,12 @@ const CERTS = [
     date: "2026-08-16",
     file: "certs/Building_Agentic_AI_Systems_for_Developers/OpenAI_API_Function_Calling.pdf",
   },
+  {
+    title: "Model Context Protocol (MCP): Hands-On with Agentic AI",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-08-18",
+    file: "certs/Building_Agentic_AI_Systems_for_Developers/Model_Context_Protocol_MCP_HandsOn_with_Agentic_AI.pdf",
+  },
 ];
