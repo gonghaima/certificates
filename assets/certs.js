@@ -178,4 +178,12 @@ const CERTS = [
     date: "2026-08-18",
     file: "certs/Building_Agentic_AI_Systems_for_Developers/Model_Context_Protocol_MCP_HandsOn_with_Agentic_AI.pdf",
   },
+  {
+    title: "Hands-On AI: Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-08-20",
+    file: "certs/Building_Agentic_AI_Systems_for_Developers/Building_AI_Agents_with_Model_Context_Protocol_MCP_and_Agent2Agent_A2A.pdf",
+  },
 ];
