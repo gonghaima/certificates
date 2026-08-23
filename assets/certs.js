@@ -186,4 +186,12 @@ const CERTS = [
     date: "2026-08-20",
     file: "certs/Building_Agentic_AI_Systems_for_Developers/Building_AI_Agents_with_Model_Context_Protocol_MCP_and_Agent2Agent_A2A.pdf",
   },
+  {
+    title: "Build with AI: Agentic Applications with LlamaIndex and MCP",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-08-23",
+    file: "certs/Building_Agentic_AI_Systems_for_Developers/Build_with_AI_Agentic_Applications_with_LlamaIndex_and_MCP.pdf",
+  },
 ];

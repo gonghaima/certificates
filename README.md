@@ -3,7 +3,7 @@
 [![View Live Gallery](https://img.shields.io/badge/View-Live%20Gallery-4c1d95?style=for-the-badge)](https://gonghaima.github.io/certificates/)
 
 A running collection of completed courses and certifications across AI agents, cloud platforms,
-and developer tooling. 23 certificates from Anthropic, Microsoft, IBM, Google Cloud, AWS,
+and developer tooling. 24 certificates from Anthropic, Microsoft, IBM, Google Cloud, AWS,
 AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 
 [![Gallery preview](assets/demo/certificates-demo.gif)](https://gonghaima.github.io/certificates/)
@@ -12,6 +12,7 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 
 | Certificate | Issuer |
 | --- | --- |
+| [Build with AI: Agentic Applications with LlamaIndex and MCP](certs/Building_Agentic_AI_Systems_for_Developers/Build_with_AI_Agentic_Applications_with_LlamaIndex_and_MCP.pdf) | LinkedIn Learning |
 | [Hands-On AI: Building AI Agents with Model Context Protocol (MCP) and Agent2Agent (A2A)](certs/Building_Agentic_AI_Systems_for_Developers/Building_AI_Agents_with_Model_Context_Protocol_MCP_and_Agent2Agent_A2A.pdf) | LinkedIn Learning |
 | [Model Context Protocol (MCP): Hands-On with Agentic AI](certs/Building_Agentic_AI_Systems_for_Developers/Model_Context_Protocol_MCP_HandsOn_with_Agentic_AI.pdf) | LinkedIn Learning |
 | [OpenAI API: Function Calling](certs/Building_Agentic_AI_Systems_for_Developers/OpenAI_API_Function_Calling.pdf) | LinkedIn Learning |
