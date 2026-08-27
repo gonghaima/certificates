@@ -194,4 +194,12 @@ const CERTS = [
     date: "2026-08-23",
     file: "certs/Building_Agentic_AI_Systems_for_Developers/Build_with_AI_Agentic_Applications_with_LlamaIndex_and_MCP.pdf",
   },
+  {
+    title: "AI Evaluations: Foundations and Practical Examples",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-08-27",
+    file: "certs/Building_Agentic_AI_Systems_for_Developers/AI_Evaluations-_Foundations_and_Practical_Examples.pdf",
+  },
 ];
