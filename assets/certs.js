@@ -202,4 +202,12 @@ const CERTS = [
     date: "2026-08-27",
     file: "certs/Building_Agentic_AI_Systems_for_Developers/AI_Evaluations-_Foundations_and_Practical_Examples.pdf",
   },
+  {
+    title: "Governing AI Agents: Visibility and Control",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-08-29",
+    file: "certs/Building_Agentic_AI_Systems_for_Developers/Governing_AI_Agents_Visibility_and_Control.pdf",
+  },
 ];
