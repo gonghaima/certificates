@@ -218,4 +218,12 @@ const CERTS = [
     date: "2026-08-30",
     file: "certs/Building_Agentic_AI_Systems_for_Developers/Operating_AI_Agents_Failure_and_Recovery.pdf",
   },
+  {
+    title: "Building Agentic AI Systems for Developers",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-08-30",
+    file: "certs/Building_Agentic_AI_Systems_for_Developers/A_CertificateOfCompletion_Building Agentic AI Systems for Developers.pdf",
+  },
 ];
