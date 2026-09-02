@@ -226,4 +226,12 @@ const CERTS = [
     date: "2026-08-30",
     file: "certs/Building_Agentic_AI_Systems_for_Developers/A_CertificateOfCompletion_Building Agentic AI Systems for Developers.pdf",
   },
+  {
+    title: "Building AI Products: Security Essentials",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-09-02",
+    file: "certs/LinkedIn_Building AI Products Security Essentials Professional Certificate by LinkedIn Learning.pdf",
+  },
 ];
