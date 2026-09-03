@@ -3,7 +3,7 @@
 [![View Live Gallery](https://img.shields.io/badge/View-Live%20Gallery-4c1d95?style=for-the-badge)](https://gonghaima.github.io/certificates/)
 
 A running collection of completed courses and certifications across AI agents, cloud platforms,
-and developer tooling. 29 certificates from Anthropic, Microsoft, IBM, Google Cloud, AWS,
+and developer tooling. 30 certificates from Anthropic, Microsoft, IBM, Google Cloud, AWS,
 AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 
 [![Gallery preview](assets/demo/certificates-demo.gif)](https://gonghaima.github.io/certificates/)
@@ -13,6 +13,7 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 | Certificate | Issuer |
 | --- | --- |
 | [Building AI Products: Security Essentials](certs/LinkedIn_Building%20AI%20Products%20Security%20Essentials%20Professional%20Certificate%20by%20LinkedIn%20Learning.pdf) | LinkedIn Learning |
+| [AI Product Security: Testing, Validation, and Maintenance](certs/LinkedIn_AI%20Product%20Security%20Testing%20Validation%20and%20Maintenance.pdf) | LinkedIn Learning |
 | [Building Agentic AI Systems for Developers](certs/Building_Agentic_AI_Systems_for_Developers/A_CertificateOfCompletion_Building%20Agentic%20AI%20Systems%20for%20Developers.pdf) | LinkedIn Learning |
 | [Operating AI Agents: Failure and Recovery](certs/Building_Agentic_AI_Systems_for_Developers/Operating_AI_Agents_Failure_and_Recovery.pdf) | LinkedIn Learning |
 | [Governing AI Agents: Visibility and Control](certs/Building_Agentic_AI_Systems_for_Developers/Governing_AI_Agents_Visibility_and_Control.pdf) | LinkedIn Learning |

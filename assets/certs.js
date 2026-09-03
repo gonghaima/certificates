@@ -234,4 +234,12 @@ const CERTS = [
     date: "2026-09-02",
     file: "certs/LinkedIn_Building AI Products Security Essentials Professional Certificate by LinkedIn Learning.pdf",
   },
+  {
+    title: "AI Product Security: Testing, Validation, and Maintenance",
+    issuer: "LinkedIn Learning",
+    category: "LinkedIn Learning",
+    recipient: "Steven Gong",
+    date: "2026-09-01",
+    file: "certs/LinkedIn_AI Product Security Testing Validation and Maintenance.pdf",
+  },
 ];
