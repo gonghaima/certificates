@@ -12,6 +12,7 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 
 | Certificate | Issuer |
 | --- | --- |
+| [Generative AI Applications with Amazon Bedrock](certs/Generative_AI_Applications_with_Amazon_Bedrock_Coursera.pdf) | AWS · Coursera |
 | [Building AI Products: Security Essentials](certs/LinkedIn_Building%20AI%20Products%20Security%20Essentials%20Professional%20Certificate%20by%20LinkedIn%20Learning.pdf) | LinkedIn Learning |
 | [AI Product Security: Testing, Validation, and Maintenance](certs/LinkedIn_AI%20Product%20Security%20Testing%20Validation%20and%20Maintenance.pdf) | LinkedIn Learning |
 | [Building Agentic AI Systems for Developers](certs/Building_Agentic_AI_Systems_for_Developers/A_CertificateOfCompletion_Building%20Agentic%20AI%20Systems%20for%20Developers.pdf) | LinkedIn Learning |
@@ -26,7 +27,6 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 | [Hands-on AI: Building Agentic SaaS Workflows with AutoGen Studio](certs/Building_Agentic_AI_Systems_for_Developers/Handson_AI_Building_Agentic_SaaS_Workflows_with_AutoGen_Studio.pdf) | LinkedIn Learning |
 | [Build with AI: Creating AI Agents with OpenAI's Responses API](certs/Building_Agentic_AI_Systems_for_Developers/Creating_AI_Agents_with_OpenAIs_Responses_API.pdf) | LinkedIn Learning |
 | [Build with AI: Autonomous Agents with LangChain and Hugging Face](certs/AI_Autonomous_Agents_with_LangChain_and_Hugging_Face.pdf) | LinkedIn Learning |
-| [Generative AI Applications with Amazon Bedrock](certs/Generative_AI_Applications_with_Amazon_Bedrock_Coursera.pdf) | AWS · Coursera |
 | [MLOps with Vertex AI: Model Evaluation](certs/Machine_Learning_Operations_with_Vertex_AI_Model_Evaluation.pdf) | Google Cloud · Coursera |
 | [MLOps with Vertex AI: Manage Features](certs/Machine_Learning_Operations_%28MLOps%29_with_Vertex_AI_Manage_Features.pdf) | Google Cloud · Coursera |
 | [AI Tools, Data, and Experience Design](certs/AI-Tools-Data-and-Experience-Design.pdf) | AICERTs · Coursera |

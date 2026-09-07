@@ -118,8 +118,8 @@ const CERTS = [
     title: "Generative AI Applications with Amazon Bedrock",
     issuer: "AWS · Coursera",
     category: "AWS",
-    recipient: "Xiangyu Dou",
-    date: "2026-08-06",
+    recipient: "Hai Gong",
+    date: "2026-09-07",
     file: "certs/Generative_AI_Applications_with_Amazon_Bedrock_Coursera.pdf",
   },
   {
