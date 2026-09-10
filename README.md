@@ -12,6 +12,7 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 
 | Certificate | Issuer |
 | --- | --- |
+| [MLOps with Vertex AI: Manage Features](certs/Machine_Learning_Operations_%28MLOps%29_with_Vertex_AI_Manage_Features.pdf) | Google Cloud · Coursera |
 | [Generative AI Applications with Amazon Bedrock](certs/Generative_AI_Applications_with_Amazon_Bedrock_Coursera.pdf) | AWS · Coursera |
 | [Building AI Products: Security Essentials](certs/LinkedIn_Building%20AI%20Products%20Security%20Essentials%20Professional%20Certificate%20by%20LinkedIn%20Learning.pdf) | LinkedIn Learning |
 | [AI Product Security: Testing, Validation, and Maintenance](certs/LinkedIn_AI%20Product%20Security%20Testing%20Validation%20and%20Maintenance.pdf) | LinkedIn Learning |
@@ -28,7 +29,6 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 | [Build with AI: Creating AI Agents with OpenAI's Responses API](certs/Building_Agentic_AI_Systems_for_Developers/Creating_AI_Agents_with_OpenAIs_Responses_API.pdf) | LinkedIn Learning |
 | [Build with AI: Autonomous Agents with LangChain and Hugging Face](certs/AI_Autonomous_Agents_with_LangChain_and_Hugging_Face.pdf) | LinkedIn Learning |
 | [MLOps with Vertex AI: Model Evaluation](certs/Machine_Learning_Operations_with_Vertex_AI_Model_Evaluation.pdf) | Google Cloud · Coursera |
-| [MLOps with Vertex AI: Manage Features](certs/Machine_Learning_Operations_%28MLOps%29_with_Vertex_AI_Manage_Features.pdf) | Google Cloud · Coursera |
 | [AI Tools, Data, and Experience Design](certs/AI-Tools-Data-and-Experience-Design.pdf) | AICERTs · Coursera |
 | [Machine Learning Operations (MLOps): Getting Started](certs/Machine-Learning-Operations-%28MLOps%29.pdf) | Google Cloud · Coursera |
 | [AI Foundations & Design Thinking](certs/AI-Foundations-Design-Thinking-Coursera.pdf) | AICERTs · Coursera |

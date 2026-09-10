@@ -102,8 +102,8 @@ const CERTS = [
     title: "MLOps with Vertex AI: Manage Features",
     issuer: "Google Cloud · Coursera",
     category: "Google Cloud",
-    recipient: "Hao Yao",
-    date: "2026-07-28",
+    recipient: "Hai Gong",
+    date: "2026-09-10",
     file: "certs/Machine_Learning_Operations_(MLOps)_with_Vertex_AI_Manage_Features.pdf",
   },
   {
