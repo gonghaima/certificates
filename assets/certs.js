@@ -70,8 +70,8 @@ const CERTS = [
     title: "Build RAG Applications: Get Started",
     issuer: "IBM · Coursera",
     category: "IBM",
-    recipient: "Ching Shui Pechi Shek",
-    date: "2026-07-14",
+    recipient: "Hai Gong",
+    date: "2026-09-14",
     file: "certs/IBM-Build-RAG-Applications.pdf",
   },
   {

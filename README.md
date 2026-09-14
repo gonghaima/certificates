@@ -12,6 +12,7 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 
 | Certificate | Issuer |
 | --- | --- |
+| [Build RAG Applications: Get Started](certs/IBM-Build-RAG-Applications.pdf) | IBM · Coursera |
 | [MLOps with Vertex AI: Manage Features](certs/Machine_Learning_Operations_%28MLOps%29_with_Vertex_AI_Manage_Features.pdf) | Google Cloud · Coursera |
 | [Generative AI Applications with Amazon Bedrock](certs/Generative_AI_Applications_with_Amazon_Bedrock_Coursera.pdf) | AWS · Coursera |
 | [Building AI Products: Security Essentials](certs/LinkedIn_Building%20AI%20Products%20Security%20Essentials%20Professional%20Certificate%20by%20LinkedIn%20Learning.pdf) | LinkedIn Learning |
@@ -32,7 +33,6 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 | [AI Tools, Data, and Experience Design](certs/AI-Tools-Data-and-Experience-Design.pdf) | AICERTs · Coursera |
 | [Machine Learning Operations (MLOps): Getting Started](certs/Machine-Learning-Operations-%28MLOps%29.pdf) | Google Cloud · Coursera |
 | [AI Foundations & Design Thinking](certs/AI-Foundations-Design-Thinking-Coursera.pdf) | AICERTs · Coursera |
-| [Build RAG Applications: Get Started](certs/IBM-Build-RAG-Applications.pdf) | IBM · Coursera |
 | [Develop Generative AI Applications: Get Started](certs/IBM-Develop-Generative-AI-Applications.pdf) | IBM · Coursera |
 | [Microsoft Azure AI Essentials](certs/Microsoft/Microsoft_Azure_AI_Essentials.pdf) | Microsoft & LinkedIn Learning |
 | [Agentic AI with LangChain and LangGraph](certs/Building_Agentic_AI_Systems_for_Developers/Agentic_AI_with_LangChain_and_LangGraph.pdf) | IBM · Coursera |
