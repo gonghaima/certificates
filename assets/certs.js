@@ -86,8 +86,8 @@ const CERTS = [
     title: "AI Tools, Data, and Experience Design",
     issuer: "AICERTs · Coursera",
     category: "AICERTs",
-    recipient: "Hao Yao",
-    date: "2026-07-26",
+    recipient: "Hai Gong",
+    date: "2026-09-21",
     file: "certs/AI-Tools-Data-and-Experience-Design.pdf",
   },
   {
