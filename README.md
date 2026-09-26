@@ -12,6 +12,7 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 
 | Certificate | Issuer |
 | --- | --- |
+| [Develop Generative AI Applications: Get Started](certs/IBM-Develop-Generative-AI-Applications.pdf) | IBM · Coursera |
 | [AI Tools, Data, and Experience Design](certs/AI-Tools-Data-and-Experience-Design.pdf) | AICERTs · Coursera |
 | [Build RAG Applications: Get Started](certs/IBM-Build-RAG-Applications.pdf) | IBM · Coursera |
 | [MLOps with Vertex AI: Manage Features](certs/Machine_Learning_Operations_%28MLOps%29_with_Vertex_AI_Manage_Features.pdf) | Google Cloud · Coursera |
@@ -33,7 +34,6 @@ AICERTs, and LinkedIn Learning. Filterable, with PDF thumbnails.
 | [MLOps with Vertex AI: Model Evaluation](certs/Machine_Learning_Operations_with_Vertex_AI_Model_Evaluation.pdf) | Google Cloud · Coursera |
 | [Machine Learning Operations (MLOps): Getting Started](certs/Machine-Learning-Operations-%28MLOps%29.pdf) | Google Cloud · Coursera |
 | [AI Foundations & Design Thinking](certs/AI-Foundations-Design-Thinking-Coursera.pdf) | AICERTs · Coursera |
-| [Develop Generative AI Applications: Get Started](certs/IBM-Develop-Generative-AI-Applications.pdf) | IBM · Coursera |
 | [Microsoft Azure AI Essentials](certs/Microsoft/Microsoft_Azure_AI_Essentials.pdf) | Microsoft & LinkedIn Learning |
 | [Agentic AI with LangChain and LangGraph](certs/Building_Agentic_AI_Systems_for_Developers/Agentic_AI_with_LangChain_and_LangGraph.pdf) | IBM · Coursera |
 | [Introduction to Agent Skills](certs/Claude/certificate-ClaudeAgentSkills.pdf) | Anthropic |

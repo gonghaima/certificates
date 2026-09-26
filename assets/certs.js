@@ -62,8 +62,8 @@ const CERTS = [
     title: "Develop Generative AI Applications: Get Started",
     issuer: "IBM · Coursera",
     category: "IBM",
-    recipient: "Ching Shui Pechi Shek",
-    date: "2026-07-12",
+    recipient: "Hai Gong",
+    date: "2026-09-26",
     file: "certs/IBM-Develop-Generative-AI-Applications.pdf",
   },
   {
